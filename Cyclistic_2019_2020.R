@@ -75,3 +75,5 @@ cyclistic_dataset <- bind_rows(q2_2019, q3_2019, q4_2019, q1_2020)
 
 #Step 5: Inspecting the combined data frame
 head(cyclistic_dataset)
+
+#Step 6: Removing unwanted columns
